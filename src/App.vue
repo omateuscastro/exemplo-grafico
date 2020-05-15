@@ -1,7 +1,7 @@
 <template>
   <v-app>
     <v-app-bar app color="primary" dark>
-      <div class="d-flex align-center">Exemplo Gráfico</div>
+      <div class="d-flex display-1 align-center">Exemplo Gráfico</div>
 
       <v-spacer></v-spacer>
 
@@ -153,7 +153,6 @@ export default {
 
 <style>
 .small {
-  max-width: 320px;
   margin: 20px auto;
 }
 </style>
